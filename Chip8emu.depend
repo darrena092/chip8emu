@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1421494234 source:/home/darren/projects/chip8emu/Chip8emu/main.cpp
+	<SDL2/SDL.h>
+	<stdio.h>
+	"video.h"
+	"cpu.h"
+	"debug.h"
+
+1421422006 source:/home/darren/projects/chip8emu/Chip8emu/video.cpp
+	<stdio.h>
+	<stdint.h>
+	"video.h"
+	"debug.h"
+
+1421413468 /home/darren/projects/chip8emu/Chip8emu/video.h
+	<SDL2/SDL.h>
+
+1421431363 source:/home/darren/projects/chip8emu/Chip8emu/cpu.cpp
+	"cpu.h"
+	"debug.h"
+	"fontset.h"
+	<SDL2/SDL.h>
+
+1421431502 /home/darren/projects/chip8emu/Chip8emu/cpu.h
+	<stdio.h>
+	<stdarg.h>
+	<stdlib.h>
+	<string.h>
+	"video.h"
+
+1421421674 /home/darren/projects/chip8emu/Chip8emu/debug.h
+	<sys/time.h>
+	<stdio.h>
+	<stdarg.h>
+
+1421353464 source:/home/darren/projects/chip8emu/Chip8emu/debug.cpp
+	"debug.h"
+
+1421417570 /home/darren/projects/chip8emu/Chip8emu/fontset.h
+
